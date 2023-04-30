@@ -1,6 +1,8 @@
 <h1>#boraCodar um card de produto</h1>
 <h3>Desenvolvido seguindo o layout disponibilizado no Figma</h3>
 
+Projeto online: <a href="https://card-product-bora-codar-2.vercel.app/">Clique aqui e veja</a>
+
 <h4>Techs</h4>
 <li>HTML</li>
 <li>CSS</li>
